@@ -1,2 +1,2 @@
 # meet-mia-web-page
-College project web page with plain CSS and HTML
+College project web shop template https://meetmia-test.netlify.app/
